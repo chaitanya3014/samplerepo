@@ -42,6 +42,8 @@ Order List
 How to insert image
 
 ![SunFlower](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/1200px-Sunflower_sky_backdrop.jpg)
+
+<img src="(https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/1200px-Sunflower_sky_backdrop.jpg".width=10 height=20)
  
 
  How to place the links
